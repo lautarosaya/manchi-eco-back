@@ -1,0 +1,15 @@
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\bin\Debug\net8.0\ManchiEco.Application.deps.json
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\bin\Debug\net8.0\ManchiEco.Application.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\bin\Debug\net8.0\ManchiEco.Application.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\bin\Debug\net8.0\ManchiEco.Domain.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\bin\Debug\net8.0\ManchiEco.Domain.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEc.AC1C2CA4.Up2Date
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\refint\ManchiEco.Application.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ManchiEco.Application.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.Application\obj\Debug\net8.0\ref\ManchiEco.Application.dll

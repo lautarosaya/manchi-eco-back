@@ -1,0 +1,17 @@
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.EntityFramework.deps.json
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.EntityFramework.runtimeconfig.json
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.EntityFramework.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.EntityFramework.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.Domain.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\bin\Debug\net8.0\ManchiEco.Domain.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEc.8643E30B.Up2Date
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\refint\ManchiEco.EntityFramework.dll
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.pdb
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ManchiEco.EntityFramework.genruntimeconfig.cache
+C:\Users\lauta\OneDrive\Escritorio\manchi-eco-back\ManchiEco.EntityFramework\obj\Debug\net8.0\ref\ManchiEco.EntityFramework.dll

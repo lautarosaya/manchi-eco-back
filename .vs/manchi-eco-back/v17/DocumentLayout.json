@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4826186E-301F-4484-9379-3B2B65AC7539}|ManchiEco.Domain\\ManchiEco.Domain.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.domain\\entities\\tipocuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4826186E-301F-4484-9379-3B2B65AC7539}|ManchiEco.Domain\\ManchiEco.Domain.csproj|solutionrelative:manchieco.domain\\entities\\tipocuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.api\\dtos\\homedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|solutionrelative:manchieco.api\\dtos\\homedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.api\\controllers\\homedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|solutionrelative:manchieco.api\\controllers\\homedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|solutionrelative:manchieco.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31236197-0ED3-441D-B26B-EE2E6BDC75BB}|ManchiEco.Application\\ManchiEco.Application.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.application\\interfaces\\ihomedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31236197-0ED3-441D-B26B-EE2E6BDC75BB}|ManchiEco.Application\\ManchiEco.Application.csproj|solutionrelative:manchieco.application\\interfaces\\ihomedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31236197-0ED3-441D-B26B-EE2E6BDC75BB}|ManchiEco.Application\\ManchiEco.Application.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.application\\services\\homedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31236197-0ED3-441D-B26B-EE2E6BDC75BB}|ManchiEco.Application\\ManchiEco.Application.csproj|solutionrelative:manchieco.application\\services\\homedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|c:\\users\\lauta\\onedrive\\escritorio\\manchi-eco-back\\manchieco.api\\controllers\\gustoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE2508-3571-4136-A6B4-4DE993F208D7}|ManchiEco.API\\ManchiEco.API.csproj|solutionrelative:manchieco.api\\controllers\\gustoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoCuota.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Domain\\Entities\\TipoCuota.cs",
+              "RelativeDocumentMoniker": "ManchiEco.Domain\\Entities\\TipoCuota.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Domain\\Entities\\TipoCuota.cs",
+              "RelativeToolTip": "ManchiEco.Domain\\Entities\\TipoCuota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:30:19.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ManchiEco.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ManchiEco.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:17:35.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeDataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\DTOs\\HomeDataDTO.cs",
+              "RelativeDocumentMoniker": "ManchiEco.API\\DTOs\\HomeDataDTO.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\DTOs\\HomeDataDTO.cs",
+              "RelativeToolTip": "ManchiEco.API\\DTOs\\HomeDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:04:55.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GustosController.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Controllers\\GustosController.cs",
+              "RelativeDocumentMoniker": "ManchiEco.API\\Controllers\\GustosController.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Controllers\\GustosController.cs",
+              "RelativeToolTip": "ManchiEco.API\\Controllers\\GustosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:03:31.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHomeDataService.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Application\\Interfaces\\IHomeDataService.cs",
+              "RelativeDocumentMoniker": "ManchiEco.Application\\Interfaces\\IHomeDataService.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Application\\Interfaces\\IHomeDataService.cs",
+              "RelativeToolTip": "ManchiEco.Application\\Interfaces\\IHomeDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:00:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeDataController.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Controllers\\HomeDataController.cs",
+              "RelativeDocumentMoniker": "ManchiEco.API\\Controllers\\HomeDataController.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.API\\Controllers\\HomeDataController.cs",
+              "RelativeToolTip": "ManchiEco.API\\Controllers\\HomeDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:55:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeDataService.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Application\\Services\\HomeDataService.cs",
+              "RelativeDocumentMoniker": "ManchiEco.Application\\Services\\HomeDataService.cs",
+              "ToolTip": "C:\\Users\\lauta\\OneDrive\\Escritorio\\manchi-eco-back\\ManchiEco.Application\\Services\\HomeDataService.cs",
+              "RelativeToolTip": "ManchiEco.Application\\Services\\HomeDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:26:59.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

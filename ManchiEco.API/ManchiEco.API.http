@@ -1,0 +1,6 @@
+@ManchiEco.API_HostAddress = http://localhost:5042
+
+GET {{ManchiEco.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

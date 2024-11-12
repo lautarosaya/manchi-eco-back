@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManchiEco.Application/1.0.0": {
+        "dependencies": {
+          "ManchiEco.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ManchiEco.Application.dll": {}
+        }
+      },
+      "ManchiEco.Domain/1.0.0": {
+        "runtime": {
+          "ManchiEco.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManchiEco.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManchiEco.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
